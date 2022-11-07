@@ -1,6 +1,6 @@
-UTS Advanced Data Science for Innovation 2022-11
+# UTS Advanced Data Science for Innovation 2022-11
 
-Team epository of AT Group 4
+## Team repository of AT Group 4
 
 * Hitoshi Fukuda
 * April Nommesen
