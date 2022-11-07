@@ -1,9 +1,16 @@
-nba-career-prediction
+UTS Advanced Data Science for Innovation 2022-11
+
+Team epository of AT Group 4
+
+* Hitoshi Fukuda
+* April Nommesen
+
+Project 1: NBA Career Prediction
+
 ==============================
 
-A short description of the project.
+A short description of every project organization.
 
-Project Organization
 ------------
 
     ├── LICENSE
