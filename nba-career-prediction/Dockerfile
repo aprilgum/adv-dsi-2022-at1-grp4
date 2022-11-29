@@ -6,6 +6,7 @@ RUN conda install s3fs
 RUN conda install lime
 RUN conda install hyperopt
 RUN conda install graphviz
+RUN pip install xgboost
 RUN pip install torch torchvision torchtext --extra-index-url https://download.pytorch.org/whl/cpu
 
 ENV PYTHONPATH "${PYTHONPATH}:/home/jovyan/work"
